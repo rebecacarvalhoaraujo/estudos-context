@@ -1,5 +1,5 @@
 import "./CompPai.css";
 
 export function CompPai() {
-  return <></>;
+  return <div className="pai"></div>;
 }

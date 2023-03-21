@@ -1,5 +1,5 @@
 import "./CompFilhoA.css";
 
 export function CompFilhoA() {
-  return <></>;
+  return <div className="filho-a"></div>;
 }
